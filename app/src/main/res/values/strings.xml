@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Proyecto Integrador A</string>
+    <string name="salida1">Son Iguales</string>
+    <string name="salida2">No son Iguales</string>
+    <string name="comparar">Comparar</string>
+</resources>
