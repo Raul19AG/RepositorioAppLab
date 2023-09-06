@@ -2,12 +2,12 @@ package com.example.RepositorioAppLab.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.RepositorioAppLab.databinding.ActivityMainBinding
 import androidx.activity.viewModels
 import com.example.RepositorioAppLab.viewmodel.CompararViewModel
+import com.example.proyectointegradora.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-    private lateinit var binding:ActivityMainBinding
+    private lateinit var binding: ActivityMainBinding
     private val compararViewModel : CompararViewModel by viewModels()
    // var patron:EditText = FindViewById(R.id.comparar)
     override fun onCreate(savedInstanceState: Bundle?) {
