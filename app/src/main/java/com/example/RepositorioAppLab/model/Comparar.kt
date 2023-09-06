@@ -1,6 +1,5 @@
-package com.example.proyectointegradora.model
+package com.example.RepositorioAppLab.model
 
-import android.text.Editable
 import android.widget.EditText
 import android.widget.TextView
 

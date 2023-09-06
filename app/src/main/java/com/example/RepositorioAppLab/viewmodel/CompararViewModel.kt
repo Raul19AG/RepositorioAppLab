@@ -1,4 +1,4 @@
-package com.example.proyectointegradora.viewmodel
+package com.example.RepositorioAppLab.viewmodel
 import android.widget.EditText
 import androidx.lifecycle.ViewModel
 

@@ -1,11 +1,10 @@
-package com.example.proyectointegradora
+package com.example.RepositorioAppLab
 
 
-import com.example.proyectointegradora.viewmodel.CompararViewModel
+import com.example.RepositorioAppLab.viewmodel.CompararViewModel
 import org.junit.Test
 
 import org.junit.Assert.*
-import org.junit.Before
 import java.lang.reflect.Array.set
 
 /**

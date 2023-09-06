@@ -1,10 +1,10 @@
-package com.example.proyectointegradora.view
+package com.example.RepositorioAppLab.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.proyectointegradora.databinding.ActivityMainBinding
+import com.example.RepositorioAppLab.databinding.ActivityMainBinding
 import androidx.activity.viewModels
-import com.example.proyectointegradora.viewmodel.CompararViewModel
+import com.example.RepositorioAppLab.viewmodel.CompararViewModel
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding:ActivityMainBinding
