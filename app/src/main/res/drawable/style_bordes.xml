@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+=======
+<shape xmlns:android="http://schemas.android.com/apk/res/android"android:shape="rectangle">
+>>>>>>> origin/master
     <stroke android:width="2sp"
         android:color="@color/material_dynamic_primary20"/>
     <padding android:bottom="10sp"
         android:left="10sp"
         android:right="10sp"
         android:top="10sp"/>
+<<<<<<< HEAD
     <corners android:radius="10sp"/>
+=======
+    <corners android:radius="10sp"
+>>>>>>> origin/master
 
 </shape>
